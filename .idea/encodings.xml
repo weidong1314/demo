@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$/demo-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-parent/demo-apply" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-parent/demo-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-parent/demo-static" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
